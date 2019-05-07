@@ -35,6 +35,7 @@ export interface ColumnCommonOptions {
 
     /**
      * Indicates if column's value can be set to NULL.
+     * @default false
      */
     nullable?: boolean;
 
